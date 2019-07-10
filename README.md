@@ -7,7 +7,7 @@ The data location:
 *  https://data.aip.de/starhorse - FITS/HDF5/CSV
 
 
-# Database version
+# Dataset version
 * 10.07.2019: **v0.5**
 
 # Usage
@@ -22,4 +22,5 @@ The data location:
 * open the link https://gke.mybinder.org/
 * add to the field '**GitHub repository name or URL**'  https://github.com/arm2arm/starhorse_db
 * press the **launch** button
+
 
