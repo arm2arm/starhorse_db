@@ -23,4 +23,5 @@ The data location:
 * add to the field '**GitHub repository name or URL**'  https://github.com/arm2arm/starhorse_db
 * press the **launch** button
 
-
+## Or direct buttons
+- [Tutorial for SH (cmd_from_db)](cmd_from_db.ipynb): [![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/blue?icon=terminal)](https://colab.research.google.com/github/arm2arm/starhorse_db/blob/master/cmd_from_db.ipynb) [![MyBinder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/arm2arm/starhorse_db/master?filepath=cmd_from_db.ipynb)
