@@ -1,0 +1,6 @@
+name: starhorse
+dependencies:
+   - numpy
+   - pandas
+   - matplotlib
+   - pyvo
