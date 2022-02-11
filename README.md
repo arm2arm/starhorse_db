@@ -28,3 +28,5 @@ The data location:
  [![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/blue?icon=terminal)](https://colab.research.google.com/github/arm2arm/starhorse_db/blob/master/cmd_from_db.ipynb)
  - [cmd_from_db_chunking](cmd_from_db_chunking.ipynb):[![MyBinder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/arm2arm/starhorse_db/master?filepath=cmd_from_db_chunking.ipynb)
  [![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/blue?icon=terminal)](https://colab.research.google.com/github/arm2arm/starhorse_db/blob/master/cmd_from_db_chunking.ipynb)
+ - [sh21viz](sh21viz.ipynb):[![MyBinder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/arm2arm/starhorse_db/master?filepath=sh21viz.ipynb)
+ [![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/blue?icon=terminal)](https://colab.research.google.com/github/arm2arm/starhorse_db/blob/master/sh21viz.ipynb)

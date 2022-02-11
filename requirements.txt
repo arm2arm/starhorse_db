@@ -2,3 +2,7 @@ numpy==1.16.*
 matplotlib==3.*
 pandas==0.24.*
 pyvo==0.9.*
+requests==2.25.*
+h5py==3.1.*
+s3fs==2021.6.*
+corner==2.1.*
