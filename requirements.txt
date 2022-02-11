@@ -1,4 +1,4 @@
-numpy==1.16.*
+numpy==1.19.5
 matplotlib==3.*
 pandas==0.24.*
 pyvo==0.9.*
