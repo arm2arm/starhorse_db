@@ -4,3 +4,4 @@ dependencies:
    - pandas
    - matplotlib
    - pyvo
+   - h5py
